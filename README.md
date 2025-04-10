@@ -18,13 +18,14 @@ The following **required** functionality is completed:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+      - invest more time on ui
 
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://youtube.com/shorts/bEwIOTb9E7Q
 
 ## Notes
 
